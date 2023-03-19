@@ -9,26 +9,26 @@
 - [Review](#Review-Papers)
 - [Seminars and Workshops](#Seminars-and-Workshops)
 
-二、数据集
-- [Radar Datasets](#Radar-Datasets)
+二、数据视图
+- [雷达数据集](#Radar-Datasets)
 - [Radar Signature](#Radar-Signature)
-- [Calibration](#Calibration)
+- [级联](#Calibration)
 - [Labelling](#Labelling)
 - [Augmentation](#Data-Augmentation)
-- [Simulation](#Simulator)
+- [仿真](#Simulator)
 - [Generative Model](#Generative-Model)
-- [Testing](#Testing)
+- [测试](#Testing)
 
 三、信号处理
-- [Radar Toolbox](#Radar-Toolbox)
-- [MIMO Calibration](#MIMO-Calibration)
+- [雷达工具箱](#Radar-Toolbox)
+- [MIMO级联](#MIMO-Calibration)
 - [Detector](#Detector)
-- [Super Resolution](#Super-Resolution)
-- [Clustering](#Clustering)
+- [超分辨](#Super-Resolution)
+- [聚类](#Clustering)
 - [Denoising](#Denoising)
 
 四、应用
-- [TI Reference Designs](#TI-Reference-Designs)
+- [TI参考设计](#TI-Reference-Designs)
 - [Ego-Motion Estimation](#Ego-Motion-Estimation)
 - [Velocity Estimation](#Velocity-Estimation)
 - [Depth Estimation](#Depth-Estimation)
@@ -47,16 +47,17 @@
 - [Radar-Audio](#Radar-Audio)
 
 五、挑战
-- [Weather Effect](#Weather-Effects)
-- [Multi Path Effect](#Multi-Path-Effect)
-- [Mutual Interference](#Mutual-Interference)
+- [天气影响](#Weather-Effects)
+- [多径效应](#Multi-Path-Effect)
+- [雷达干扰](#Mutual-Interference)
 - [Cell Migration](#Range-and-Doppler-Cell-Migration)
-- [Tx-Rx Leakage](#Tx-Rx-Leakage)
+- [Tx-Rx泄露](#Tx-Rx-Leakage)
 - [Imperfect Waveform Separation](#Imperfect-Waveform-Separation)
 
 
 六、雷达数据集
--[review paper](https://www.mdpi.com/1424-8220/22/11/4208)
+
+- [雷达数据集论文](https://www.mdpi.com/1424-8220/22/11/4208)
 
 ---
 
